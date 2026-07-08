@@ -106,7 +106,7 @@ python client.py udp \
 
 ---
 
-## 👥 Kelompok 2
+## 👥 Author
 
 | Nama | NIM | Tugas |
 |--------|--------|--------|
